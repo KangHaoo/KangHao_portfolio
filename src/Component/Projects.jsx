@@ -5,6 +5,8 @@ import dishwash from '../assets/dishwash.png';
 import Sweetescape from '../assets/Sweetescape.png'
 import Japanimage  from '../assets/japanese.png'
 import sleepystudios from '../assets/sleepystudios.jpeg'
+import game from '../assets/game.png';
+import lostsoul from '../assets/lostsoul.png';
 
 
 
@@ -41,12 +43,17 @@ const projectData = [
     image: sleepystudios
   },
 
-  {
-    id: 6,
-    name: "Hakken",
-    description: "This is a description of Project 3.",
-    image: "/project3.jpg"
-  }
+
+
+    {
+      id: 7,
+      name: "SPACE WARS",
+      description: "A tactical card game where players battle for cosmic dominance using strategic moves and visually striking, custom-designed cards.",
+      image: lostsoul
+    }
+    
+
+  
 
   
 ];
